@@ -1,7 +1,7 @@
 # Atakan Arda Celik
 
-M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineering (Dokuz Eylul University, Türkiye)  
-Software Developer focused on backend development, databases, and API design. Based in Passau, open to opportunities across Germany/EU.
+M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineering (Dokuz Eylul University, Turkey)  
+Software Developer focused on web development, databases, and API design. Based in Passau, open to opportunities across Germany/EU.
 
 ## Focus areas
 - Backend development with **Java / Spring Boot** and **ASP.NET MVC**
@@ -19,13 +19,13 @@ Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio-Masters-Thesis-Project
 Real-time strategy game developed in **Unity (C#)** with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
 Repo: https://github.com/Atakan97/TheArtofWar-Bachelors-Thesis-Project
 
-### Academic writing (selected)
+### Academic writing
 - Hardware Security Solutions for the Internet of Things  
   https://github.com/Atakan97/Seminar-Paper---Hardware-Security-Solutions-for-the-Internet-of-Things
 - Resilient Communication Systems for Critical Infrastructures  
   https://github.com/Atakan97/Seminar-Paper---Resilient-Communication-Systems-for-the-Critical-Infrastructures-of-the-Future
 
-## Experience snapshot
+## Professional Experience
 **Software Developer @ EPAM Systems (Nov 2021 – Apr 2022)**  
 - Implemented backend components and **GraphQL APIs** for a customizable order management solution  
 - Built API test scenarios (Postman) and unit tests to improve reliability and maintainability  
