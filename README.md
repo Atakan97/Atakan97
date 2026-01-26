@@ -25,7 +25,7 @@ Repo: https://github.com/Atakan97/TheArtofWar-Bachelors-Thesis-Project
 - Resilient Communication Systems for Critical Infrastructures  
   https://github.com/Atakan97/Seminar-Paper---Resilient-Communication-Systems-for-the-Critical-Infrastructures-of-the-Future
 
-## Professional Experience
+## Professional experience
 **Software Developer @ EPAM Systems (Nov 2021 – Apr 2022)**  
 - Implemented backend components and **GraphQL APIs** for a customizable order management solution  
 - Built API test scenarios (Postman) and unit tests to improve reliability and maintainability  
