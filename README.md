@@ -12,7 +12,7 @@ Software Developer focused on web development, databases, and API design. Based 
 ## Featured Work
 ### PlaqueAnalyzer Studio — Master’s thesis project
 Interactive web tool for learning **database normalization**, visualizing redundancy (“plaque”) and guiding decomposition up to BCNF.  
-**Stack:** Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker  
+**Stack:** Java Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker  
 Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio-Masters-Thesis-Project
 
 ### The Art of War — Bachelor’s thesis project
