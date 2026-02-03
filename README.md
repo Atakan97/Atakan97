@@ -4,7 +4,7 @@ M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineer
 Software Developer focused on web development, databases, and API design. Based in Passau, open to opportunities across Germany/EU.
 
 ## Focus Areas
-- Backend development with **Java / Spring Boot** and **ASP.NET MVC**
+- Backend development with **Java / Spring Boot** and **C# / ASP.NET MVC**
 - **Databases** (PostgreSQL, MS SQL, MySQL) and data-centric applications
 - API development & integration (**REST**, **GraphQL**)
 - Containerized development workflows with **Docker**
