@@ -32,7 +32,7 @@ Repo: https://github.com/Atakan97/TheArtofWar-Bachelors-Thesis-Project
 - Worked in an international Agile team (requirements analysis, iterative delivery)
 
 **Software Development Intern @ C System (Apr 2021 – Jun 2021)**  
-- Full-stack customer feedback web application (C#, ASP.NET MVC, EF, MS SQL Server, HTML/CSS/JS)
+- Full-stack customer feedback web application (C#, ASP.NET MVC, Entity Framework, MS SQL Server, HTML/CSS/JS)
 
 ## Tech Stack
 <p align="left">
