@@ -5,7 +5,7 @@ Software Developer focused on web development, databases, and API design. Based 
 
 ## Focus Areas
 - Backend development with **Java / Spring Boot** and **C# / ASP.NET MVC**
-- **Databases** (PostgreSQL, MS SQL, MySQL) and data-centric applications
+- **Databases** (PostgreSQL, MS SQL, MySQL)
 - API development & integration (**REST**, **GraphQL**)
 - Containerized development workflows with **Docker**
 
