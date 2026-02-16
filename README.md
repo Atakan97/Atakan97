@@ -10,12 +10,12 @@ Software Developer focused on web development, databases, and API design. Based 
 - Containerized development workflows with **Docker**
 
 ## Featured Work
-### PlaqueAnalyzer Studio — Master’s thesis project
+### PlaqueAnalyzer Studio
 Interactive web tool for learning **database normalization**, visualizing redundancy (“plaque”) and guiding decomposition up to BCNF.  
 **Stack:** Java Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker  
 Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio-Masters-Thesis-Project
 
-### The Art of War — Bachelor’s thesis project
+### The Art of War
 Real-time strategy game developed in **Unity (C#)** with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
 Repo: https://github.com/Atakan97/TheArtofWar-Bachelors-Thesis-Project
 
