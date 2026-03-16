@@ -58,9 +58,6 @@ Repo: https://github.com/Atakan97/TheArtofWar
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## Languages
-Turkish (Native) | English (C1) | German (A2)
-
 ## Contact
 - Email: celikatakanarda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/atakan-arda-celik-8b6b36192
