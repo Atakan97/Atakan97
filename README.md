@@ -48,6 +48,7 @@ Repo: https://github.com/Atakan97/TheArtofWar
   https://github.com/Atakan97/resilient-communication-infrastructure
   
 - Data Collection and Processing on Sustainable and Healthy Food
+
   https://github.com/Atakan97/data-sustainable-food
 
 ## Contact
