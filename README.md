@@ -1,19 +1,17 @@
 # Atakan Arda Celik
 
 M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineering (Dokuz Eylul University, Turkey)  
-Software Engineer focused on full-stack web development. 
+Software Engineer focused on full-stack web development.  
 Based in Passau, Germany, and open to opportunities across Germany/EU.
 
 ## Projects
 ### PlaqueAnalyzer Studio
 Interactive web tool for learning database schema normalization, visualizing redundancy (“plaque”) and guided decomposition.  
-**Tech Stack:** Java Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker, CI/CD Pipeline
-
+**Tech Stack:** Java Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker, CI/CD Pipeline  
 Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio
 
 ### The Art of War
 Real-time strategy game developed in Unity (C#) with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
-
 Repo: https://github.com/Atakan97/TheArtofWar
 
 ## Tech Stack
@@ -47,8 +45,7 @@ Repo: https://github.com/Atakan97/TheArtofWar
 - Resilient Communication Systems for Critical Infrastructures  
   https://github.com/Atakan97/resilient-communication-infrastructure
   
-- Data Collection and Processing on Sustainable and Healthy Food
-
+- Data Collection and Processing on Sustainable and Healthy Food  
   https://github.com/Atakan97/data-sustainable-food
 
 ## Contact
