@@ -43,8 +43,10 @@ Repo: https://github.com/Atakan97/TheArtofWar
 ### Academic Writing
 - Hardware Security Solutions for the Internet of Things  
   https://github.com/Atakan97/hardware-security-iot
+  
 - Resilient Communication Systems for Critical Infrastructures  
   https://github.com/Atakan97/resilient-communication-infrastructure
+  
 - Data Collection and Processing on Sustainable and Healthy Food
   https://github.com/Atakan97/data-sustainable-food
 
