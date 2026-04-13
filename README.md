@@ -4,20 +4,16 @@ M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineer
 Software Engineer focused on full-stack web development. 
 Based in Passau, Germany, and open to opportunities across Germany/EU.
 
-## Focus Areas
-- Backend development with **Java / Spring Boot** and **C# / ASP.NET MVC**
-- **Databases** (PostgreSQL, MS SQL)
-- API development & integration (**REST**, **GraphQL**)
-- Containerized development workflows with **Docker**
-
 ## Projects
 ### PlaqueAnalyzer Studio
-Interactive web tool for learning **database normalization**, visualizing redundancy (“plaque”) and guided decomposition.  
+Interactive web tool for learning database schema normalization, visualizing redundancy (“plaque”) and guided decomposition.  
 **Tech Stack:** Java Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker, CI/CD Pipeline
+
 Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio
 
 ### The Art of War
-Real-time strategy game developed in **Unity (C#)** with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
+Real-time strategy game developed in Unity (C#) with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
+
 Repo: https://github.com/Atakan97/TheArtofWar
 
 ## Tech Stack
@@ -46,9 +42,11 @@ Repo: https://github.com/Atakan97/TheArtofWar
 
 ### Academic Writing
 - Hardware Security Solutions for the Internet of Things  
-  https://github.com/Atakan97/Seminar-Paper---Hardware-Security-Solutions-for-the-Internet-of-Things
+  https://github.com/Atakan97/hardware-security-iot
 - Resilient Communication Systems for Critical Infrastructures  
-  https://github.com/Atakan97/Seminar-Paper---Resilient-Communication-Systems-for-the-Critical-Infrastructures-of-the-Future
+  https://github.com/Atakan97/resilient-communication-infrastructure
+- Data Collection and Processing on Sustainable and Healthy Food
+  https://github.com/Atakan97/data-sustainable-food
 
 ## Contact
 - Email: celikatakanarda@gmail.com
