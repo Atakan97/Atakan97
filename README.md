@@ -5,6 +5,12 @@ Software Engineer focused on full-stack web development.
 Based in Passau, Germany, and open to opportunities across Germany/EU.
 
 ## Projects
+
+### RAG Documentation Assistant
+A documentation assistant built with Retrieval-Augmented Generation (RAG) methods and LLMs.  
+**Tech Stack:** Python FastAPI, Next.js, React, JavaScript, CSS, Docker  
+Repo: https://github.com/Atakan97/rag-doc-assistant
+
 ### PlaqueAnalyzer Studio
 Interactive web tool for learning database schema normalization, visualizing redundancy (“plaque”) and guided decomposition.  
 **Tech Stack:** Java Spring Boot, PostgreSQL, JavaScript/HTML/CSS, Docker, CI/CD Pipeline  
