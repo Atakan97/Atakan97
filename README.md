@@ -1,7 +1,5 @@
-# Atakan Arda Celik
+I am an enthusiastic software engineer with an M.Sc. in Computer Science, passionate about building professional full-stack applications and AI-based systems. I am highly motivated by the process of transforming complex requirements into feasible and optimized solutions.
 
-M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineering (Dokuz Eylul University, Turkey)  
-Software Engineer focused on full-stack web development.  
 Based in Passau, Germany, and open to opportunities across Germany/EU.
 
 ## Projects
@@ -56,6 +54,11 @@ Repo: https://github.com/Atakan97/TheArtofWar
 - Data Collection and Processing on Sustainable and Healthy Food  
   https://github.com/Atakan97/data-sustainable-food
 
+## Education
+
+M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineering (Dokuz Eylul University, Turkey)  
+
 ## Contact
 - Email: celikatakanarda@gmail.com
 - LinkedIn: https://www.linkedin.com/in/atakan-arda-celik-8b6b36192
+- Portfolio: https://atakanardacelik.vercel.app/
