@@ -86,6 +86,3 @@ Repo: https://github.com/Atakan97/TheArtofWar
 - Data Collection and Processing on Sustainable and Healthy Food  
   https://github.com/Atakan97/data-sustainable-food
 
-## Education
-M.Sc. Computer Science (University of Passau, Germany) | B.Sc. Computer Engineering (Dokuz Eylul University, Turkey)  
-
