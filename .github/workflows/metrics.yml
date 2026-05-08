@@ -4,6 +4,12 @@ on:
   schedule: [{cron: "0 */12 * * *"}]
   workflow_dispatch:
 
+permissions:
+  contents: read
+  issues: read
+  pull-requests: read
+  actions: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
