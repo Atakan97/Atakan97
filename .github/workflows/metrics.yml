@@ -23,7 +23,7 @@ jobs:
           user: Atakan97
 
           template: classic
-          base: header, activity, community, repositories
+          base: header, activity, repositories, metadata
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
