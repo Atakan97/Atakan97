@@ -20,16 +20,16 @@
 
 #
 
-I am an enthusiastic software engineer with an M.Sc. in Computer Science, passionate about building professional full-stack applications and AI-based systems. I am highly motivated by the process of transforming complex requirements into feasible and optimized solutions.
+I am an enthusiastic software engineer with an M.Sc. in Computer Science, passionate about building professional full-stack applications and AI-based systems. I am motivated by the process of transforming complex requirements into feasible and optimized solutions.
 
-Based in Passau, Germany, and open to opportunities across Germany/EU.
+Based in Passau, Germany, and open to opportunities for Germany/EU.
 
 
 ## Projects
 
 ### RAG Documentation Assistant
 A documentation assistant built with Retrieval-Augmented Generation (RAG) methods and LLMs.  
-**Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Docker  
+**Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Grafana, Prometheus, Docker  
 Repo: https://github.com/Atakan97/rag-doc-assistant
 
 ### PlaqueAnalyzer Studio
@@ -39,7 +39,7 @@ Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio
 
 ### The Art of War
 Real-time strategy game developed in Unity with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
-**Tech Stack:** Unity, C# 
+**Tech Stack:** Unity, C#  
 Repo: https://github.com/Atakan97/TheArtofWar
 
 ## Tech Stack
