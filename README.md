@@ -4,7 +4,7 @@
 
 ### Software Engineer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=28&duration=2500&pause=750&color=42B888&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI-Driven+Systems;Java+Developer;Python+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=28&duration=2500&pause=750&color=42B888&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI-Based+Solutions;Frontend+Development;Backend+Development" />
 
 <p align="center">
   <a href="https://linkedin.com/in/atakan-arda-celik-8b6b36192/">
@@ -20,21 +20,21 @@
 
 #
 
-I am an enthusiastic software engineer with an M.Sc. in Computer Science, passionate about building professional full-stack applications and AI-based systems. I am motivated by the process of transforming complex requirements into feasible and optimized solutions.
+Software engineer with a master's degree in Computer Science, focused on developing professional full-stack and AI-based solutions.
 
-Based in Passau, Germany, and open to opportunities for Germany/EU.
+Based in Passau, Germany, and open to opportunities across Germany/EU.
 
 
 ## Projects
 
 ### RAG Documentation Assistant
-A documentation assistant built with Retrieval-Augmented Generation (RAG) methods and LLMs.  
-**Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Grafana, Prometheus, Docker  
+A documentation assistant built with Retrieval-Augmented Generation (RAG) pipeline.  
+**Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Grafana, Prometheus, Docker, Playwright, pytest  
 Repo: https://github.com/Atakan97/rag-doc-assistant
 
 ### PlaqueAnalyzer Studio
-Interactive web tool for learning database schema normalization, visualizing redundancy (“plaque”) and guided decomposition.  
-**Tech Stack:** Java Spring Boot, JavaScript, HTML, CSS, PostgreSQL, Docker, CI/CD Pipeline  
+Interactive web tool for learning database schema normalization by visualizing redundancies (“plaque”) and guided decompositions.  
+**Tech Stack:** Java Spring Boot, JavaScript, HTML, CSS, PostgreSQL, Docker, CI/CD, JUnit  
 Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio
 
 ### The Art of War
