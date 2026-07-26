@@ -27,6 +27,11 @@ Based in Passau, Germany, and open to opportunities across Germany/EU.
 
 ## Projects
 
+### Deutsche Bahn Delay Analysis
+End-to-end ELT and ML pipeline predicting real-time train delays for German stations with a live analytics dashboard.  
+**Tech Stack:** Python, Prefect, dbt, PostgreSQL (Supabase), XGBoost, SHAP, MLflow, FastAPI, Streamlit, Docker, GitHub Actions  
+Repo: https://github.com/Atakan97/deutsche-bahn-delay-analysis
+
 ### RAG Documentation Assistant
 A documentation assistant built with Retrieval-Augmented Generation (RAG) pipeline.  
 **Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Grafana, Prometheus, Docker, Playwright, pytest  
