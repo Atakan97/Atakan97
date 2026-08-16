@@ -37,6 +37,11 @@ A documentation assistant built with Retrieval-Augmented Generation (RAG) pipeli
 **Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Grafana, Prometheus, Docker, Playwright, pytest  
 Repo: https://github.com/Atakan97/rag-doc-assistant
 
+### Germany Tech Jobs Collector
+Automated job collection pipeline gathering German tech roles, filtering senior positions, and storing scored matches in Amazon DynamoDB. 
+**Tech Stack:** Python, AWS Lambda, Amazon DynamoDB, spaCy (NLP), Amazon EventBridge, REST APIs  
+Repo: https://github.com/Atakan97/germany_tech_jobs
+
 ### PlaqueAnalyzer Studio
 Interactive web tool for learning database schema normalization by visualizing redundancies (“plaque”) and guided decompositions.  
 **Tech Stack:** Java Spring Boot, JavaScript, HTML, CSS, PostgreSQL, Docker, CI/CD, JUnit  
@@ -65,6 +70,7 @@ Repo: https://github.com/Atakan97/TheArtofWar
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
   <!-- Databases -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <!-- Tools -->
