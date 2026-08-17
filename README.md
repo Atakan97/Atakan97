@@ -38,7 +38,7 @@ A documentation assistant built with Retrieval-Augmented Generation (RAG) pipeli
 Repo: https://github.com/Atakan97/rag-doc-assistant
 
 ### Germany Tech Jobs Collector
-Automated job collection pipeline gathering German tech roles, filtering senior positions, and storing scored matches in Amazon DynamoDB. 
+Automated job collection pipeline gathering German tech roles, filtering senior positions, and storing scored matches in Amazon DynamoDB.  
 **Tech Stack:** Python, AWS Lambda, Amazon DynamoDB, spaCy (NLP), Amazon EventBridge, REST APIs  
 Repo: https://github.com/Atakan97/germany_tech_jobs
 
