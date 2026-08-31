@@ -25,32 +25,199 @@ Software engineer with a master's degree in Computer Science, focused on develop
 Based in Passau, Germany, and open to opportunities across Germany/EU.
 
 
-## Projects
+## Featured Projects
 
-### Deutsche Bahn Delay Analysis
-End-to-end ELT and ML pipeline predicting real-time train delays for German stations with a live analytics dashboard.  
-**Tech Stack:** Python, Prefect, dbt, PostgreSQL (Supabase), XGBoost, SHAP, MLflow, FastAPI, Streamlit, Docker, GitHub Actions  
-Repo: https://github.com/Atakan97/deutsche-bahn-delay-analysis
+<table>
+<tr>
 
-### RAG Documentation Assistant
-A documentation assistant built with Retrieval-Augmented Generation (RAG) pipeline.  
-**Tech Stack:** Python FastAPI, React, Next.js, JavaScript, CSS, Supabase, Grafana, Prometheus, Docker, Playwright, pytest  
-Repo: https://github.com/Atakan97/rag-doc-assistant
+<td width="50%" valign="top">
 
-### Germany Tech Jobs Collector
-Automated job collection pipeline gathering German tech roles, filtering senior positions, and storing scored matches in Amazon DynamoDB.  
-**Tech Stack:** Python, AWS Lambda, Amazon DynamoDB, spaCy (NLP), Amazon EventBridge, REST APIs  
-Repo: https://github.com/Atakan97/germany_tech_jobs
+<a href="https://db-delay-analysis.streamlit.app/">
+  <img
+    src="https://raw.githubusercontent.com/Atakan97/deutsche-bahn-delay-analysis/main/docs/images/Overview.png"
+    alt="Deutsche Bahn Delay Analysis dashboard"
+    width="100%"
+  />
+</a>
 
-### PlaqueAnalyzer Studio
-Interactive web tool for learning database schema normalization by visualizing redundancies (“plaque”) and guided decompositions.  
-**Tech Stack:** Java Spring Boot, JavaScript, HTML, CSS, PostgreSQL, Docker, CI/CD, JUnit  
-Repo: https://github.com/Atakan97/PlaqueAnalyzerStudio
+<h3>
+  <a href="https://github.com/Atakan97/deutsche-bahn-delay-analysis">
+    Deutsche Bahn Delay Analysis
+  </a>
+</h3>
 
-### The Art of War
-Real-time strategy game developed in Unity with combat mechanics and AI behaviours (e.g., pathfinding and state-based decision making).  
-**Tech Stack:** Unity, C#  
-Repo: https://github.com/Atakan97/TheArtofWar
+<sub><b>DATA ENGINEERING · MACHINE LEARNING</b></sub>
+
+<p>
+Real time delay analytics platform combining automated ELT,
+delay prediction and ML explainability.
+</p>
+
+<p>
+  <code>Python</code>
+  <code>dbt</code>
+  <code>XGBoost</code>
+  <code>FastAPI</code>
+</p>
+
+<p>
+  <a href="https://db-delay-analysis.streamlit.app/">
+    <b>Live Demo ↗</b>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Atakan97/deutsche-bahn-delay-analysis">
+    Source Code
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://rag-doc-assistant-one.vercel.app/">
+  <img
+    src="https://raw.githubusercontent.com/Atakan97/rag-doc-assistant/main/images/rag_assistant.png"
+    alt="RAG Documentation Assistant interface"
+    width="100%"
+  />
+</a>
+
+<h3>
+  <a href="https://github.com/Atakan97/rag-doc-assistant">
+    RAG Documentation Assistant
+  </a>
+</h3>
+
+<sub><b>GENERATIVE AI · FULL STACK</b></sub>
+
+<p>
+RAG-powered technical documentation assistant with
+source citations, vector search and observability.
+</p>
+
+<p>
+  <code>FastAPI</code>
+  <code>Next.js</code>
+  <code>LangChain</code>
+  <code>pgvector</code>
+</p>
+
+<p>
+  <a href="https://rag-doc-assistant-one.vercel.app/">
+    <b>Live Demo ↗</b>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Atakan97/rag-doc-assistant">
+    Source Code
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<a href="https://plaqueanalyzerstudio.onrender.com/">
+  <img
+    src="https://github.com/user-attachments/assets/ba61d576-6789-4ddb-8536-600925107fc9"
+    alt="PlaqueAnalyzer Studio interface"
+    width="100%"
+  />
+</a>
+
+<h3>
+  <a href="https://github.com/Atakan97/PlaqueAnalyzerStudio">
+    PlaqueAnalyzer Studio
+  </a>
+</h3>
+
+<sub><b>FULL STACK WEB DEVELOPMENT</b></sub>
+
+<p>
+Full stack web application for detecting redundancies in relational data and visualizing database normalization.
+</p>
+
+<p>
+  <code>Java</code>
+  <code>Spring Boot</code>
+  <code>PostgreSQL</code>
+  <code>Docker</code>
+</p>
+
+<p>
+  <a href="https://plaqueanalyzerstudio.onrender.com/">
+    <b>Live Demo ↗</b>
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Atakan97/PlaqueAnalyzerStudio">
+    Source Code
+  </a>
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3>
+  <a href="https://github.com/Atakan97/germany_tech_jobs">
+    Germany Tech Jobs Collector
+  </a>
+</h3>
+
+<sub><b>CLOUD · NLP AUTOMATION</b></sub>
+
+<p>
+Serverless job collection and NLP scoring pipeline for
+discovering German tech roles.
+</p>
+
+<p>
+  <code>AWS Lambda</code>
+  <code>DynamoDB</code>
+  <code>spaCy</code>
+  <code>Python</code>
+</p>
+
+<p>
+  <a href="https://github.com/Atakan97/germany_tech_jobs">
+    <b>View Repository →</b>
+  </a>
+</p>
+
+<hr>
+
+<h3>
+  <a href="https://github.com/Atakan97/TheArtofWar">
+    The Art of War
+  </a>
+</h3>
+
+<sub><b>GAME DEVELOPMENT · AI</b></sub>
+
+<p>
+Real-time strategy game built in Unity with combat mechanics,
+pathfinding and state-based AI behaviours.
+</p>
+
+<p>
+  <code>Unity</code>
+  <code>C#</code>
+</p>
+
+<p>
+  <a href="https://github.com/Atakan97/TheArtofWar">
+    <b>View Repository →</b>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ## Tech Stack
 <p align="left">
