@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="760" viewBox="0 0 2400 760">
+<defs>
+  <radialGradient id="pGlow" cx="80%" cy="18%" r="70%">
+    <stop offset="0" stop-color="#4F7CFF" stop-opacity=".32"/>
+    <stop offset=".45" stop-color="#9B5CFF" stop-opacity=".12"/>
+    <stop offset="1" stop-color="#080C14" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="pBtn" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#5B7CFF"/><stop offset="1" stop-color="#9C6CFF"/>
+  </linearGradient>
+</defs>
+<rect x="14" y="14" width="2372" height="732" rx="42" fill="#080C14"/>
+<rect x="14.5" y="14.5" width="2371" height="731" rx="41.5" fill="none" stroke="#343C4B"/>
+<rect x="14" y="14" width="2372" height="732" rx="42" fill="url(#pGlow)"/>
+<g transform="translate(72 78)">
+  <rect width="188" height="38" rx="19" fill="#161A31" stroke="#3D4575"/>
+  <text x="18" y="25" fill="#B8C3FF" font-family="Inter,Segoe UI,sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">MASTER'S THESIS</text>
+  <text x="0" y="132" fill="#F8FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="64" font-weight="760">PlaqueAnalyzer Studio</text>
+  <text x="0" y="186" fill="#9EABBE" font-family="Inter,Segoe UI,sans-serif" font-size="24">Relational redundancy analysis &amp; interactive normalization</text>
+  <text x="0" y="242" fill="#728095" font-family="Inter,Segoe UI,sans-serif" font-size="19">Research software · Monte Carlo computation · SSE live updates</text>
+  <g transform="translate(0 454)">
+    <rect width="82" height="40" rx="13" fill="#131B28"/><text x="20" y="26" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="16">Java</text>
+    <rect x="94" width="130" height="40" rx="13" fill="#131B28"/><text x="112" y="26" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="16">Spring Boot</text>
+    <rect x="236" width="122" height="40" rx="13" fill="#131B28"/><text x="253" y="26" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="16">PostgreSQL</text>
+    <rect x="370" width="92" height="40" rx="13" fill="#131B28"/><text x="389" y="26" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="16">Docker</text>
+  </g>
+  <g transform="translate(0 532)">
+    <rect width="132" height="50" rx="25" fill="url(#pBtn)"/>
+    <text x="28" y="32" fill="#090D15" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="800">LIVE ↗</text>
+  </g>
+</g>
+<g transform="translate(1110 92)">
+  <rect width="1190" height="570" rx="34" fill="#0E1521" stroke="#39465B"/>
+  <rect x="32" y="30" width="1126" height="48" rx="14" fill="#141D2B"/>
+  <circle cx="57" cy="54" r="6" fill="#FF6B6B"/><circle cx="79" cy="54" r="6" fill="#FFD166"/><circle cx="101" cy="54" r="6" fill="#43E6A6"/>
+  <text x="131" y="60" fill="#8995A7" font-family="Inter,Segoe UI,sans-serif" font-size="15">PlaqueAnalyzer Studio / normalization workspace</text>
+  <g transform="translate(56 122)">
+    <rect width="376" height="130" rx="22" fill="#121C2A" stroke="#33445B"/>
+    <text x="22" y="34" fill="#9EABBD" font-family="Inter,Segoe UI,sans-serif" font-size="14">INPUT RELATION</text>
+    <rect x="22" y="54" width="332" height="24" rx="9" fill="#1A2638"/>
+    <rect x="22" y="91" width="148" height="18" rx="9" fill="#465774"/>
+    <rect x="184" y="91" width="88" height="18" rx="9" fill="#40506A"/>
+  </g>
+  <g transform="translate(486 122)">
+    <rect width="650" height="130" rx="22" fill="#121C2A" stroke="#33445B"/>
+    <text x="22" y="34" fill="#9EABBD" font-family="Inter,Segoe UI,sans-serif" font-size="14">FUNCTIONAL DEPENDENCIES</text>
+    <rect x="22" y="58" width="174" height="40" rx="12" fill="#1B2A3F"/>
+    <rect x="214" y="58" width="174" height="40" rx="12" fill="#1B2A3F"/>
+    <rect x="406" y="58" width="174" height="40" rx="12" fill="#1B2A3F"/>
+    <circle cx="604" cy="78" r="13" fill="#596CFF"/><text x="599" y="84" fill="#0A0D14" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="900">+</text>
+  </g>
+  <g transform="translate(56 292)">
+    <rect width="1080" height="220" rx="22" fill="#111A28" stroke="#324159"/>
+    <text x="22" y="36" fill="#9EABBD" font-family="Inter,Segoe UI,sans-serif" font-size="14">RELATIONAL REDUNDANCY MAP</text>
+    <g stroke="#42526A" stroke-width="3">
+      <path d="M120 140 C230 78 318 76 410 134"/>
+      <path d="M410 134 C514 180 628 178 730 116"/>
+      <path d="M410 134 C500 92 604 84 730 116"/>
+      <path d="M730 116 C840 66 916 90 982 142"/>
+    </g>
+    <g>
+      <circle cx="120" cy="140" r="28" fill="#1E3450" stroke="#61C9FF" stroke-width="3"/>
+      <circle cx="410" cy="134" r="34" fill="#2A2750" stroke="#8B7CFF" stroke-width="3"/>
+      <circle cx="730" cy="116" r="32" fill="#3B244A" stroke="#CF74FF" stroke-width="3"/>
+      <circle cx="982" cy="142" r="28" fill="#1E3D3A" stroke="#58E0B4" stroke-width="3"/>
+    </g>
+    <rect x="858" y="24" width="196" height="54" rx="18" fill="#182235"/>
+    <text x="876" y="47" fill="#8290A5" font-family="Inter,Segoe UI,sans-serif" font-size="12">LIVE COMPUTE</text>
+    <text x="876" y="68" fill="#58E0B4" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="700">SSE connected</text>
+  </g>
+</g>
+</svg>
