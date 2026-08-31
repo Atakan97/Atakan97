@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<defs>
+  <radialGradient id="jGlow" cx="85%" cy="10%" r="76%">
+    <stop offset="0" stop-color="#21C98D" stop-opacity=".30"/>
+    <stop offset=".48" stop-color="#22D3EE" stop-opacity=".10"/>
+    <stop offset="1" stop-color="#080C14" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="jBtn" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#3EE6A5"/><stop offset="1" stop-color="#30C7D6"/>
+  </linearGradient>
+</defs>
+<rect x="14" y="14" width="1172" height="592" rx="38" fill="#080C14"/>
+<rect x="14.5" y="14.5" width="1171" height="591" rx="37.5" fill="none" stroke="#343C4B"/>
+<rect x="14" y="14" width="1172" height="592" rx="38" fill="url(#jGlow)"/>
+<g transform="translate(54 54)">
+  <rect width="150" height="36" rx="18" fill="#12261F" stroke="#2D5C4B"/>
+  <text x="18" y="24" fill="#92F1C8" font-family="Inter,Segoe UI,sans-serif" font-size="16" font-weight="700" letter-spacing="1.2">CLOUD / NLP</text>
+  <text x="0" y="112" fill="#F8FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="46" font-weight="760">Germany Tech</text>
+  <text x="0" y="162" fill="#F8FAFC" font-family="Inter,Segoe UI,sans-serif" font-size="46" font-weight="760">Jobs Collector</text>
+  <text x="0" y="204" fill="#9EABBE" font-family="Inter,Segoe UI,sans-serif" font-size="20">Serverless collection + NLP match scoring</text>
+  <g transform="translate(0 398)">
+    <rect width="118" height="38" rx="12" fill="#131B28"/><text x="17" y="25" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="15">AWS Lambda</text>
+    <rect x="130" width="116" height="38" rx="12" fill="#131B28"/><text x="145" y="25" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="15">DynamoDB</text>
+    <rect x="258" width="82" height="38" rx="12" fill="#131B28"/><text x="277" y="25" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="15">spaCy</text>
+    <rect x="352" width="92" height="38" rx="12" fill="#131B28"/><text x="371" y="25" fill="#D5DEEA" font-family="ui-monospace,monospace" font-size="15">Python</text>
+  </g>
+  <g transform="translate(0 462)">
+    <rect width="136" height="48" rx="24" fill="url(#jBtn)"/>
+    <text x="25" y="31" fill="#08110E" font-family="Inter,Segoe UI,sans-serif" font-size="18" font-weight="800">CODE ↗</text>
+  </g>
+</g>
+<g transform="translate(646 112)">
+  <rect x="0" y="0" width="142" height="76" rx="20" fill="#111A28" stroke="#34455A"/>
+  <text x="22" y="33" fill="#8996A8" font-family="Inter,Segoe UI,sans-serif" font-size="13">JOB</text>
+  <text x="22" y="54" fill="#DDE6F2" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="700">SOURCES</text>
+  <path d="M150 38 H212" stroke="#405269" stroke-width="4" stroke-linecap="round"/>
+  <path d="M202 29 L214 38 L202 47" fill="none" stroke="#405269" stroke-width="4"/>
+  <rect x="224" y="0" width="142" height="76" rx="20" fill="#16251F" stroke="#3B6F59"/>
+  <text x="245" y="33" fill="#8EBAA5" font-family="Inter,Segoe UI,sans-serif" font-size="13">AWS</text>
+  <text x="245" y="54" fill="#E2FFF2" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="700">LAMBDA</text>
+  <path d="M374 38 H436" stroke="#405269" stroke-width="4" stroke-linecap="round"/>
+  <path d="M426 29 L438 38 L426 47" fill="none" stroke="#405269" stroke-width="4"/>
+  <rect x="448" y="0" width="142" height="76" rx="20" fill="#111A28" stroke="#34455A"/>
+  <text x="469" y="33" fill="#8996A8" font-family="Inter,Segoe UI,sans-serif" font-size="13">NLP</text>
+  <text x="469" y="54" fill="#DDE6F2" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="700">spaCy</text>
+  <path d="M520 86 V148" stroke="#405269" stroke-width="4" stroke-linecap="round"/>
+  <path d="M511 138 L520 150 L529 138" fill="none" stroke="#405269" stroke-width="4"/>
+  <rect x="408" y="162" width="224" height="82" rx="22" fill="#131F2C" stroke="#34566A"/>
+  <text x="433" y="194" fill="#8AA1B4" font-family="Inter,Segoe UI,sans-serif" font-size="13">MATCH SCORE</text>
+  <rect x="433" y="207" width="150" height="12" rx="6" fill="#263449"/>
+  <rect x="433" y="207" width="116" height="12" rx="6" fill="#3EE6A5"/>
+  <text x="588" y="219" fill="#9BE9C8" font-family="Inter,Segoe UI,sans-serif" font-size="13">78</text>
+  <path d="M400 203 H326" stroke="#405269" stroke-width="4" stroke-linecap="round"/>
+  <path d="M338 194 L326 203 L338 212" fill="none" stroke="#405269" stroke-width="4"/>
+  <rect x="154" y="162" width="160" height="82" rx="22" fill="#171B2A" stroke="#4C4F69"/>
+  <text x="176" y="194" fill="#999DB4" font-family="Inter,Segoe UI,sans-serif" font-size="13">STORE</text>
+  <text x="176" y="219" fill="#E5E7F4" font-family="Inter,Segoe UI,sans-serif" font-size="17" font-weight="700">DynamoDB</text>
+</g>
+</svg>
