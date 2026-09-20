@@ -76,7 +76,7 @@ delay prediction and ML explainability.
 
 <a href="https://rag-doc-assistant-one.vercel.app/">
   <img
-    src="https://raw.githubusercontent.com/Atakan97/rag-doc-assistant/main/images/rag_assistant.png"
+    src="https://raw.githubusercontent.com/Atakan97/rag-doc-assistant/main/images/rag-doc-assistant.png"
     alt="RAG Documentation Assistant interface"
     width="100%"
   />
